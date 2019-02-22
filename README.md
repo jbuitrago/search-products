@@ -11,7 +11,7 @@
 
 - Clonar el proyecto
 
-git clone https://github.com/jbuitrago/test-front-end-ml.git
+git clone https://github.com/jbuitrago/test-front-end-ml_2.git
 
 - Ingresar al directorio
 
